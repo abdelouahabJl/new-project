@@ -1,2 +1,2 @@
 # new-project
-tis our project of hotel
+this our project of hotel
